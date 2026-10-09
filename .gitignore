@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# Downloads generated during tests
+downloads/
+
+# TestNG output
+test-output/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log

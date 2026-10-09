@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TesterRank Automation Suite">
+
+	<test name="Beginner Selenium Tests">
+
+		<classes>
+
+			<class name="tests.FormsTest" />
+			<class name="tests.DropdownsTest" />
+			<class name="tests.CheckboxesTest" />
+			<class name="tests.AlertsTest" />
+			<class name="tests.TablesTest" />
+			<class name="tests.FileUploadTest" />
+			<class name="tests.FileDownloadTest" />
+			<class name="tests.AccordionsTabsTest" />
+
+		</classes>
+
+	</test>
+
+</suite>
